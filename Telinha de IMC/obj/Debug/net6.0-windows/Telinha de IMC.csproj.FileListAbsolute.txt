@@ -1,0 +1,107 @@
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.exe
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.deps.json
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.runtimeconfig.json
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.dll
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.pdb
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.AssemblyReference.cache
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.GenerateResource.cache
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.AssemblyInfoInputs.cache
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.AssemblyInfo.cs
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.CoreCompileInputs.cache
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.dll
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\refint\Telinha de IMC.dll
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.pdb
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.genruntimeconfig.cache
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\ref\Telinha de IMC.dll
+C:\Users\2022102020009\source\repos\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha_de_IMC.IMC.resources
+F:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.AssemblyReference.cache
+F:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha_de_IMC.IMC.resources
+F:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha_de_IMC.Properties.Resources.resources
+F:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.GenerateResource.cache
+F:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.AssemblyInfoInputs.cache
+F:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.AssemblyInfo.cs
+F:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.CoreCompileInputs.cache
+F:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.dll
+F:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\refint\Telinha de IMC.dll
+F:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.pdb
+E:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.AssemblyReference.cache
+E:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha_de_IMC.IMC.resources
+E:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha_de_IMC.Properties.Resources.resources
+E:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.GenerateResource.cache
+E:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.AssemblyInfoInputs.cache
+E:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.AssemblyInfo.cs
+E:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.CoreCompileInputs.cache
+E:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.dll
+E:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\refint\Telinha de IMC.dll
+E:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.pdb
+E:\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.exe
+E:\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.deps.json
+E:\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.runtimeconfig.json
+E:\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.dll
+E:\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.pdb
+E:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.genruntimeconfig.cache
+E:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\ref\Telinha de IMC.dll
+F:\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.exe
+F:\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.deps.json
+F:\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.runtimeconfig.json
+F:\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.dll
+F:\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.pdb
+F:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.genruntimeconfig.cache
+F:\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\ref\Telinha de IMC.dll
+F:\Telas Form\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.exe
+F:\Telas Form\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.deps.json
+F:\Telas Form\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.runtimeconfig.json
+F:\Telas Form\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.dll
+F:\Telas Form\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.pdb
+F:\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.AssemblyReference.cache
+F:\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha_de_IMC.IMC.resources
+F:\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha_de_IMC.Properties.Resources.resources
+F:\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.GenerateResource.cache
+F:\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.AssemblyInfoInputs.cache
+F:\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.AssemblyInfo.cs
+F:\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.CoreCompileInputs.cache
+F:\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.dll
+F:\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\refint\Telinha de IMC.dll
+F:\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.pdb
+F:\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.genruntimeconfig.cache
+F:\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\ref\Telinha de IMC.dll
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.exe
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.deps.json
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.runtimeconfig.json
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.dll
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.pdb
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.AssemblyReference.cache
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha_de_IMC.IMC.resources
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha_de_IMC.Properties.Resources.resources
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.GenerateResource.cache
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.AssemblyInfoInputs.cache
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.AssemblyInfo.cs
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.CoreCompileInputs.cache
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.dll
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\refint\Telinha de IMC.dll
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.pdb
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.genruntimeconfig.cache
+E:\Telinhas de PO2\Telas Form\Telinha de IMC\Telinha de IMC\obj\Debug\net6.0-windows\ref\Telinha de IMC.dll
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.exe
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.deps.json
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.runtimeconfig.json
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.dll
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\bin\Debug\net6.0-windows\Telinha de IMC.pdb
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.AssemblyReference.cache
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\obj\Debug\net6.0-windows\Telinha_de_IMC.IMC.resources
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\obj\Debug\net6.0-windows\Telinha_de_IMC.Properties.Resources.resources
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.GenerateResource.cache
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.AssemblyInfoInputs.cache
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.AssemblyInfo.cs
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.csproj.CoreCompileInputs.cache
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.dll
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\obj\Debug\net6.0-windows\refint\Telinha de IMC.dll
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.pdb
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\obj\Debug\net6.0-windows\Telinha de IMC.genruntimeconfig.cache
+E:\Telinhas de PO2\Telas Form\Telinha de IMC - Copia\Telinha de IMC\obj\Debug\net6.0-windows\ref\Telinha de IMC.dll
