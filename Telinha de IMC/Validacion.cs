@@ -27,7 +27,7 @@ namespace Telinha_de_IMC
             }
             else
             {
-                for (int i = 10; i > 1; i--)        //053.643.911-74
+                for (int i = 10; i > 2; i--)        //053.643.911-74
                 {                                    
                     int armazenarCal = Convert.ToInt32(cpf[contador].ToString());   // Converti cpf para string e depois int
                                                                               // preciso pegar cada posição do cpf individualmente
